@@ -49,9 +49,9 @@
 ---
 ## 上課內容
 ### Week 1~3
-* [課程介紹](https://docs.google.com/presentation/d/e/2PACX-1vQQ4-146uvQCZn9VjZKTZM2P_svSrkrzvVN2dlKmXVK3IlqYWTTmBfaG1unOBZ65gOuVyac4c__RIj2/pub?start=false&loop=false&delayms=3000&fbclid=IwAR3B47fq5aXUh_oa6KUf2rF3MyEMeNgh7AU6a_uF2i1gYdL40TOSx06EHtM&slide=id.gbde736d55e_0_369)
+* [課程介紹](https://docs.google.com/presentation/d/e/2PACX-1vQQ4-146uvQCZn9VjZKTZM2P_svSrkrzvVN2dlKmXVK3IlqYWTTmBfaG1unOBZ65gOuVyac4c__RIj2/pub?start=false&loop=false&delayms=3000&fbclid=IwAR3B47fq5aXUh_oa6KUf2rF3MyEMeNgh7AU6a_uF2i1gYdL40TOSx06EHtM&slide=id.gbde736d55e_0_107)
 
-* [專案說明](https://docs.google.com/presentation/d/1X4xUq4O2z27M1i6cqEV-dBdGyW9aj7nUyFNspkVuF_0/edit#slide=id.gc5a873bc88_84_0)
+* [專案說明](https://docs.google.com/presentation/d/1X4xUq4O2z27M1i6cqEV-dBdGyW9aj7nUyFNspkVuF_0/edit#slide=id.gbde736d55e_0_107)
 
 * [六次作業說明](課堂資料/Week_1-3/20210221_Cloud-Computing_Introduction.pptx)
 
