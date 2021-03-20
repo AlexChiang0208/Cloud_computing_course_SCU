@@ -63,7 +63,7 @@ Note:
 ### Week 4
 * [專案題目說明](https://docs.google.com/presentation/d/e/2PACX-1vTgVktGm1OwqWspx_PkFQlhR6oqPFXTV5oj0JYOdR-guBzKBEbyXLfKKXRenI2HkhT4iHwYGStgoAIA/pub?start=false&loop=false&delayms=3000&slide=id.gc356cb2501_0_119)
 
-* [AWS EC2簡介]()
+* [AWS EC2簡介](課堂資料/Week_4/EC2_with_LAMP.pptx)
 
 
 
