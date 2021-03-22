@@ -35,6 +35,7 @@
 * [HW1](作業繳交/HW1/HW1.md)
 
 ### 作業二
+* [HW2](https://youtu.be/S7PzpCE3wF8)
 
 ### 作業三
 
