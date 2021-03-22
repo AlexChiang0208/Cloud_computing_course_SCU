@@ -66,5 +66,8 @@ Note:
 
 * [AWS EC2簡介](課堂資料/Week_4/EC2_with_LAMP.pptx)
 
+### Week 5
+* [專案進度](https://docs.google.com/presentation/d/1-FBkCGspeQP25hUPDf7VRT7mN50Fn5uBvBH7vI-GDkY/edit#slide=id.gbde736d55e_0_107)
 
+* [AWS S3簡介](課堂資料/Week_5/S3_Static_Web_Hosting.pptx)
 
