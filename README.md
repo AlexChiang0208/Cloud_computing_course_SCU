@@ -54,7 +54,7 @@
 
 * [六次作業說明](課堂資料/Week_1-3/20210221_Cloud-Computing_Introduction.pptx)
 
-* [雲端運算簡介](課堂資料/Week_1-3/20210221_Cloud_Computing_Fields.pptx)
+* [AWS簡介](課堂資料/Week_1-3/20210221_Cloud_Computing_Fields.pptx)
 
 Note:
 1. 雲端運算的部署方法指的是：「誰擁有使用權限」
