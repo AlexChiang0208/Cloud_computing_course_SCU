@@ -38,6 +38,7 @@
 * [HW2](https://youtu.be/S7PzpCE3wF8)
 
 ### 作業三
+* [HW3](https://youtu.be/0ervr1afPbM)
 
 ### 作業四
 
@@ -54,7 +55,7 @@
 
 * [六次作業說明](課堂資料/Week_1-3/20210221_Cloud-Computing_Introduction.pptx)
 
-* [雲端運算簡介](課堂資料/Week_1-3/20210221_Cloud_Computing_Fields.pptx)
+* [AWS簡介](課堂資料/Week_1-3/20210221_Cloud_Computing_Fields.pptx)
 
 Note:
 1. 雲端運算的部署方法指的是：「誰擁有使用權限」
@@ -66,5 +67,14 @@ Note:
 
 * [AWS EC2簡介](課堂資料/Week_4/EC2_with_LAMP.pptx)
 
+### Week 5
+* [專案進度](https://docs.google.com/presentation/d/1-FBkCGspeQP25hUPDf7VRT7mN50Fn5uBvBH7vI-GDkY/edit#slide=id.gbde736d55e_0_107)
+
+* [AWS S3簡介](課堂資料/Week_5/S3_Static_Web_Hosting.pptx)
+
+### Week6~7
+* [專案進度追蹤](https://docs.google.com/presentation/d/1IsY6-iJ85igRFtwcVSprsv0J_dPTxUisQaOCmDKxfrs/edit#slide=id.gbde736d55e_0_107)
+
+* [AWS API Gateway 與 Lambda簡介]()
 
 
