@@ -72,3 +72,9 @@ Note:
 
 * [AWS S3簡介](課堂資料/Week_5/S3_Static_Web_Hosting.pptx)
 
+### Week6~7
+* [專案進度追蹤](https://docs.google.com/presentation/d/1IsY6-iJ85igRFtwcVSprsv0J_dPTxUisQaOCmDKxfrs/edit#slide=id.gbde736d55e_0_107)
+
+* [AWS API Gateway 與 Lambda簡介]()
+
+
