@@ -41,6 +41,7 @@
 * [HW3](https://youtu.be/0ervr1afPbM)
 
 ### 作業四
+* [HW4](https://youtu.be/-eHEsRW3D-k)
 
 ### 作業五
 
@@ -75,6 +76,6 @@ Note:
 ### Week6~7
 * [專案進度追蹤](https://docs.google.com/presentation/d/1IsY6-iJ85igRFtwcVSprsv0J_dPTxUisQaOCmDKxfrs/edit#slide=id.gbde736d55e_0_107)
 
-* [AWS API Gateway 與 Lambda簡介]()
+* [AWS API Gateway 與 Lambda簡介](課堂資料/Week_6-7/20210329_API_Gateway_Lambda_Chatbot.pptx)
 
 
