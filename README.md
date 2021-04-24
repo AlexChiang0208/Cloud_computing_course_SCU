@@ -98,6 +98,7 @@ Note:
 * [Docker 補充資料 4](https://github.com/komavideo/LearnDocker)
 
 Note:
+
 『虛擬機』是以作業系統為核心，將主機做分割；而 Docker 就像『輕量級的虛擬機』，以應用程式(包含 code, 執行環境)為核心將其虛擬化
 
 [Dockerfile] --> build --> [Image] --> run --> [Container] --> store --> [Repository]
@@ -112,7 +113,7 @@ Note:
 
 3. Container
 > * 實際執行的應用
-> 設置: (1)Network 對外通訊 (2)Volume 共享資料
+> * 設置: (1)Network 對外通訊 (2)Volume 共享資料
 
 4. Repository
 > Docker Hub，類似於 Git hub，執行 pull, push 當中的 Image
