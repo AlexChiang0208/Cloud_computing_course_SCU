@@ -32,18 +32,19 @@
 ---
 ## 作業區
 ### 作業一
-* [HW1](作業繳交/HW1/HW1.md)
+#### [雲端運算的介紹](作業繳交/HW1/HW1.md)
 
 ### 作業二
-* [HW2](https://youtu.be/S7PzpCE3wF8)
+#### [EC2安裝LAMP（網站、資料庫伺服器）的步驟](https://youtu.be/S7PzpCE3wF8)
 
 ### 作業三
-* [HW3](https://youtu.be/0ervr1afPbM)
+#### [S3 與 Amplify 的使用步驟](https://youtu.be/0ervr1afPbM)
 
 ### 作業四
-* [HW4](https://youtu.be/-eHEsRW3D-k)
+#### [API Gateway 與 Lambda 服務在 Telegram 建立鸚鵡聊天機器人](https://youtu.be/-eHEsRW3D-k)
 
 ### 作業五
+#### [利用 SDK 在 python 上操作 RDS 與 DynamoDB]()
 
 ### 作業六
 
