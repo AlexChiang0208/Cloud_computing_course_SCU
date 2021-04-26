@@ -35,7 +35,7 @@
 #### [雲端運算的介紹](作業繳交/HW1/HW1.md)
 
 ### 作業二
-#### [EC2安裝LAMP（網站、資料庫伺服器）的步驟](https://youtu.be/S7PzpCE3wF8)
+#### [EC2 安裝 LAMP（網站、資料庫伺服器）的步驟](https://youtu.be/S7PzpCE3wF8)
 
 ### 作業三
 #### [S3 與 Amplify 的使用步驟](https://youtu.be/0ervr1afPbM)
@@ -47,6 +47,7 @@
 #### [利用 SDK 在 python 上操作 RDS 與 DynamoDB]()
 
 ### 作業六
+#### [在 EC2 上建立 Docker Image]()
 
 ---
 ## 上課內容
