@@ -120,7 +120,7 @@ Note:
 4. Repository
 > Docker Hub，類似於 Git hub，執行 pull, push 當中的 Image
 
-![Docker Note](/課堂資料/Week_8~10/Docker note.png)
+![Docker Note](課堂資料/Week_8~10/DockerNote.png)
 
 ### Week 11
 * [助教說明專案](https://docs.google.com/presentation/d/e/2PACX-1vR6RshhTnxcEtebBKObOhpKNpoioxb8O3zNBlVpx6BNYX8tFN-MYQJeA9lGRgNnirDL9Ciwi1odpinD/pub?start=false&loop=false&delayms=3000&slide=id.p)
