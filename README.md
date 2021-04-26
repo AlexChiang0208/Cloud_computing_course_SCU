@@ -99,6 +99,8 @@ Note:
 
 * [Docker 補充資料 4](https://github.com/komavideo/LearnDocker)
 
+![Docker 筆記](課堂資料/Week_8~10/Docker note.png)
+
 Note:
 
 『虛擬機』是以作業系統為核心，將主機做分割；而 Docker 就像『輕量級的虛擬機』，以應用程式(包含 code, 執行環境)為核心將其虛擬化
