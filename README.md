@@ -99,8 +99,6 @@ Note:
 
 * [Docker 補充資料 4](https://github.com/komavideo/LearnDocker)
 
-![Docker 筆記](課堂資料/Week_8~10/Docker note.png)
-
 Note:
 
 『虛擬機』是以作業系統為核心，將主機做分割；而 Docker 就像『輕量級的虛擬機』，以應用程式(包含 code, 執行環境)為核心將其虛擬化
@@ -122,7 +120,7 @@ Note:
 4. Repository
 > Docker Hub，類似於 Git hub，執行 pull, push 當中的 Image
 
-![Docker Note](課堂資料/Week_8~10/Docker note.png)
+![Docker Note](/課堂資料/Week_8~10/Docker note.png)
 
 ### Week 11
 * [助教說明專案](https://docs.google.com/presentation/d/e/2PACX-1vR6RshhTnxcEtebBKObOhpKNpoioxb8O3zNBlVpx6BNYX8tFN-MYQJeA9lGRgNnirDL9Ciwi1odpinD/pub?start=false&loop=false&delayms=3000&slide=id.p)
