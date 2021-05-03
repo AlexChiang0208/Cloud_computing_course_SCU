@@ -47,7 +47,7 @@
 #### [利用 SDK (Boto3) 在 Python 上操作 RDS](https://youtu.be/0Ut4vUy4mZE)
 
 ### 作業六
-#### [在 EC2 上建立 Docker Image]()
+#### [在 ECS 上建立 Docker Image]()
 
 ---
 ## 上課內容
