@@ -44,10 +44,10 @@
 #### [API Gateway 與 Lambda 服務在 Telegram 建立鸚鵡聊天機器人](https://youtu.be/-eHEsRW3D-k)
 
 ### 作業五
-#### [利用 SDK 在 python 上操作 RDS 與 DynamoDB]()
+#### [利用 SDK (Boto3) 在 Python 上操作 RDS](https://youtu.be/0Ut4vUy4mZE)
 
 ### 作業六
-#### [在 EC2 上建立 Docker Image]()
+#### [在 EC2 上建立 Docker Image](https://youtu.be/SZYq0UczhZM)
 
 ---
 ## 上課內容
@@ -120,7 +120,7 @@ Note:
 4. Repository
 > Docker Hub，類似於 Git hub，執行 pull, push 當中的 Image
 
-![Docker Note](課堂資料/Week_8~10/DockerNote.png)
+![Docker Note](課堂資料/Week_8~10/DockerNote.jpeg)
 
 ### Week 11
 * [助教說明專案](https://docs.google.com/presentation/d/e/2PACX-1vR6RshhTnxcEtebBKObOhpKNpoioxb8O3zNBlVpx6BNYX8tFN-MYQJeA9lGRgNnirDL9Ciwi1odpinD/pub?start=false&loop=false&delayms=3000&slide=id.p)
