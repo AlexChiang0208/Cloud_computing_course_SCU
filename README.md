@@ -44,7 +44,7 @@
 #### [API Gateway 與 Lambda 服務在 Telegram 建立鸚鵡聊天機器人](https://youtu.be/-eHEsRW3D-k)
 
 ### 作業五
-#### [利用 SDK 在 python 上操作 RDS 與 DynamoDB]()
+#### [利用 SDK (Boto3) 在 Python 上操作 RDS](https://youtu.be/0Ut4vUy4mZE)
 
 ### 作業六
 #### [在 EC2 上建立 Docker Image]()
